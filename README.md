@@ -2,9 +2,9 @@
 In this project, we build a real-time system which is able to capture network intrusion and then predict its type of attack by an AI model.
 
 # Author
-Viet-Sang Nguyen
-Phuong-Hoa Nguyen
-Ngoc-Nhat-Huyen Tran
+- Viet-Sang Nguyen
+- Phuong-Hoa Nguyen
+- Ngoc-Nhat-Huyen Tran
 
 # Commands to run real-time system
 
