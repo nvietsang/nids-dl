@@ -1,6 +1,8 @@
 # Overview
 In this project, we build a real-time system which is able to capture network intrusion and then predict its type of attack by an AI model.
 
+![alt text](report/architecture.png?raw=true "The architecture of system")
+
 # Author
 - Viet-Sang Nguyen
 - Phuong-Hoa Nguyen
